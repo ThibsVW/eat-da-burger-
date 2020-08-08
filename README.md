@@ -19,9 +19,5 @@ To use Eat-Da-Burger web application application from your local environment, yo
 - express NPM Package - [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
 - path NPM Package - [https://www.npmjs.com/package/path](https://www.npmjs.com/package/path)
 
-## Built With
 
-* VS Code - [https://code.visualstudio.com/](https://code.visualstudio.com/)
-* Git Tools - [https://git-scm.com/download](https://git-scm.com/download)
-* Live Markdown Editor - [https://jbt.github.io/markdown-editor/](https://jbt.github.io/markdown-editor/)
 
