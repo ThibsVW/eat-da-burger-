@@ -1,9 +1,15 @@
 .jumbotron {
-    background-image: url("/public/assets/img/burger2.jpg");
+    background-image: url("/assets/img/background.jpg");
+    background-color: #6b4510;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     margin-top: 10px;
+}
+
+body {
+
+    background-color: darkred;
 }
 
 .jumbotron > h1 {
@@ -15,7 +21,7 @@
 }
 
 #color-override {
-    color: #fff;
+    color: rgb(160, 30, 30);
 }
 
 #lefthead {
@@ -30,7 +36,7 @@
 }
 
 #righthead {
-    background-color: #6b4510;
+    background-color: rgb(160, 30, 30);
     color: white;
     text-align: center;
     font-size: 1.2em;
