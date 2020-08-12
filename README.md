@@ -9,9 +9,6 @@ The link below will give you direct access to Eat-Da-Burger web application usin
 
 * [Eat-Da-Burger](https://eat-da-burger-by-thibs.herokuapp.com)
 
-## Local Environment Setup
-To use Eat-Da-Burger web application application from your local environment, you must accomplish the following steps below:
-
 ## Technology used
 - node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
 - heroku-cli NPM Package - [https://www.npmjs.com/package/heroku-cli](https://www.npmjs.com/package/heroku-cli)
